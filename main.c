@@ -1,14 +1,10 @@
 void func (void){
 	
 	
-	
-	int y=10;
-	
-	
-	
-	
-	
-	
+
+
+	int y =50;
 	
 	
 }
+
